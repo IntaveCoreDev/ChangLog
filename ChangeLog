@@ -1,1 +1,18 @@
-test
+{
+    "12410754": {
+        "name": "test1",
+        "teamMember": true,
+        "contributions": [
+            "Main development"
+        ]
+    },
+    "49002355": { 
+        "name": "test2",
+        "teamMember": false,
+        "contributions": [
+            "Added MotionTeleport-Flag to BugUp",
+            "Added options to AntiAFK",
+            "Added custom options to FastUse"
+        ]
+    }
+}

@@ -7,14 +7,6 @@
             "Added ChangeLog"
         ]
     },
-    "17235016": { 
-        "name": "NurMarvin",
-        "teamMember": true,
-        "contributions": [
-            "Reviewing",
-            "Quality of Life"
-        ]
-    },
     "27446646": { 
         "name": "scorpion3013",
         "teamMember": true,
@@ -56,15 +48,6 @@
         "contributions": [
             "Added IgnoreVehicle option in InvCleaner",
             "Fixed teleport bugs"
-        ]
-    },
-    "18741573": { 
-        "name": "SenkJu",
-        "teamMember": true,
-        "contributions": [
-            "Reworked ScriptAPI",
-            "Reviewing",
-            "Website"
         ]
     },
     "24733746": { 

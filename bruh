@@ -6,7 +6,21 @@
     ],
     "author": {
       "login": "test",
-      "id": 69533520,
+      "id": 39240736,
+      "node_id": "MDQ6VXNlcjM5MjQwNzM2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39240736?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/derech1e",
+      "html_url": "https://github.com/derech1e",
+      "followers_url": "https://api.github.com/users/derech1e/followers",
+      "following_url": "https://api.github.com/users/derech1e/following{/other_user}",
+      "gists_url": "https://api.github.com/users/derech1e/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/derech1e/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/derech1e/subscriptions",
+      "organizations_url": "https://api.github.com/users/derech1e/orgs",
+      "repos_url": "https://api.github.com/users/derech1e/repos",
+      "events_url": "https://api.github.com/users/derech1e/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/derech1e/received_events",
       "type": "User",
       "site_admin": false
     }

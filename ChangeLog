@@ -85,7 +85,7 @@
         ]
     },
     "39240736": { 
-        "name": "derech1e",
+        "name": "test",
         "teamMember": false,
         "contributions": [
             "Improved AutoCompletion for module commands",

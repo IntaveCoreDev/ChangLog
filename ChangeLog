@@ -3,17 +3,8 @@
         "name": "beta",
         "teamMember": true,
         "contributions": [
+            "Started development",
             "Added ChangeLog"
-        ]
-    },
-    "22642852": { 
-        "name": "superblaubeere27",
-        "teamMember": true,
-        "contributions": [
-            "Secondary development",
-            "Rendering",
-            "Utilities",
-            "Quality of Life"
         ]
     },
     "17235016": { 

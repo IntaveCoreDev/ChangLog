@@ -3,7 +3,8 @@
         "name": "beta",
         "teamMember": true,
         "contributions": [
-            "Started development"
+            "Started development",
+            "Added ChangeLog"
         ]
     },
     "27446646": { 

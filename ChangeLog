@@ -14,13 +14,6 @@
             "Quality of Life"
         ]
     },
-    "42714212": { 
-        "name": "CzechHek",
-        "teamMember": false,
-        "contributions": [
-            "Fixed bugs (.reload + velocity)"
-        ]
-    },
     "41885049": { 
         "name": "aftery142",
         "teamMember": false,
@@ -56,14 +49,6 @@
         "contributions": [
             "Fixed Glow & Outline Shader for AMD Hardware",
             "Made 0 MaxTurnSpeed disable KillAura rotations"
-        ]
-    },
-    "39240736": { 
-        "name": "derech1e",
-        "teamMember": false,
-        "contributions": [
-            "Improved AutoCompletion for module commands",
-            "Fixed Teams on Gomme"
         ]
     },
     "11477613": { 

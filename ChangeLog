@@ -4,6 +4,13 @@
         "teamMember": true,
         "contributions": [
             "Started development",
+                        "[+] Added intave speeds and velocitys",
+            "[+] Added Blocksmc longjump",
+            "[!] Improved custom speed",
+            "[+] Added beta version of customisable clickgui style",
+            "[?] Renamed bugup to antivoid",
+            "[+] Added mineland fly",
+
             "[+] Added ChangeLog"
         ]
     },

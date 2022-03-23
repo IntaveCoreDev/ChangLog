@@ -1,10 +1,27 @@
 {
     "12410754": {
-        "name": "beta",
+        "name": "kawaiinekololis",
         "teamMember": true,
         "contributions": [
-            "Started development",
-            "Added ChangeLog"
+            "Main development"
+        ]
+    },
+    "22642852": { 
+        "name": "superblaubeere27",
+        "teamMember": true,
+        "contributions": [
+            "Secondary development",
+            "Rendering",
+            "Utilities",
+            "Quality of Life"
+        ]
+    },
+    "17235016": { 
+        "name": "NurMarvin",
+        "teamMember": true,
+        "contributions": [
+            "Reviewing",
+            "Quality of Life"
         ]
     },
     "27446646": { 
@@ -12,6 +29,13 @@
         "teamMember": true,
         "contributions": [
             "Quality of Life"
+        ]
+    },
+    "42714212": { 
+        "name": "CzechHek",
+        "teamMember": false,
+        "contributions": [
+            "Fixed bugs (.reload + velocity)"
         ]
     },
     "41885049": { 
@@ -43,12 +67,29 @@
             "Fixed teleport bugs"
         ]
     },
+    "18741573": { 
+        "name": "SenkJu",
+        "teamMember": true,
+        "contributions": [
+            "Reworked ScriptAPI",
+            "Reviewing",
+            "Website"
+        ]
+    },
     "24733746": { 
         "name": "Shyrogan",
         "teamMember": false,
         "contributions": [
             "Fixed Glow & Outline Shader for AMD Hardware",
             "Made 0 MaxTurnSpeed disable KillAura rotations"
+        ]
+    },
+    "39240736": { 
+        "name": "derech1e",
+        "teamMember": false,
+        "contributions": [
+            "Improved AutoCompletion for module commands",
+            "Fixed Teams on Gomme"
         ]
     },
     "11477613": { 

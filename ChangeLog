@@ -5,32 +5,6 @@
         "contributions": [
             "Started development",
             "[+] Added intave speeds and velocitys",
-            "[+] Added Blocksmc longjump",
-            "[!] Improved custom speed",
-            "[+] Added beta version of customisable clickgui style",
-            "[?] Renamed bugup to antivoid",
-            "[+] Added mineland fly",
-            "[!] Improved InventoryCleaner (it doesn't drop compass anymore)",
-            "[!] Improved scaffold (added Mark and new zitter mode)",
-            "[+] Improved Airlist (added outline mode to rect)",
-            "[+] Add BlocksMC Fly",
-            "[!] Improved HyCraft speed",
-            "[-] Remove MineLandHop2",
-            "[!] Improved custom speed, now it doesn't flag on aac, fixed speed jumping, being slower than vanilla, reworked ticks timer, removed shit code",
-            "[!] improved antibot"
-            "[!] fixed speed again",
-            "[!] improved blocksmc Fly",
-            "[-] Remove MatrixHop",
-            "[!] improved BlocksMC speed",
-            "[+] Added ZoneCraft speed",
-            "[+] Added custom velocity (beta)",
-            "[!] Tests Dev fly (ZoneCraft)",
-            "[+] added (skided) verus nofall (beta)",
-            "[!] Improved verus fly (it used to go up, so sometimes you mightbe killed because of fall dmg)",
-            "[-] Remove ZoneFly",
-            "[+] Add insane ZoneCraft longjump",
-            "[+] Add MinemanClub hop (beta)",
-
             "[+] Added ChangeLog"
         ]
     },
